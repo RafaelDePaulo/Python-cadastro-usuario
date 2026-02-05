@@ -1,0 +1,8 @@
+# Arquivos de dados do projeto
+usuarios.json
+
+# Pasta de cache do Python
+__pycache__/
+
+# Arquivos do VS Code
+.vscode/
